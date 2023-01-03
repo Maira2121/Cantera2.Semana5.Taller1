@@ -1,2 +1,2 @@
-# Cantera2.Semana5.Taller1
+# SQL
 Consultas SQL
